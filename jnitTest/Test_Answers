@@ -1,0 +1,27 @@
+
+Getting an element with index ?
+
+	ArrayList:
+	
+	*  Object get(int index).
+	*  Object remove(int index).
+	Linked List:
+	* Object getFirst().
+o		Object getLast().
+Removing an element ?
+	
+	Array List
+	*	Object remove(int index).
+	
+	Linked LIst
+	*	Object removeFirst().
+	*	Object removeLast().
+	
+	
+Which of the following is a valid interface ?
+	
+	c. public interface SomeInterface{
+		public abstract void dosomething();
+
+		public default void test(){}
+  }
